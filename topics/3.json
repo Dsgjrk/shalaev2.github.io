@@ -1,0 +1,39 @@
+{
+    "title": "UML диаграммы",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "UML диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Use Case: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Dsgjrk/shalaev.github.io/blob/main/kurs/uml6.PNG?raw=true"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Class: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Dsgjrk/shalaev.github.io/blob/main/kurs/uml7.PNG?raw=true"
+        },
+
+    ]
+}
