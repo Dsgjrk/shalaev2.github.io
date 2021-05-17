@@ -1,6 +1,27 @@
 {
-    "title": "UML Class",
+    "title": "DFD диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "DFD диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "DFD диаграмма: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Dsgjrk/shalaev.github.io/blob/main/kurs/7-2.png?raw=true"
+        },
+
     ]
 }
